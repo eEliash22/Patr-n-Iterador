@@ -1,0 +1,5 @@
+Compilado con Eclipse ECJ 3.33.0, nivel Java 17.
+Ejecutado con JUnitCore, JUnit 4.13.2 y Hamcrest 1.3.
+Resultado: OK (12 tests).
+No ejecutado dentro de IntelliJ ni mediante Maven en este entorno.
+DIA: XML validado; no se pudo verificar abriendo la aplicacion DIA.
